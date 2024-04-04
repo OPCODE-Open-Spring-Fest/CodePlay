@@ -1,7 +1,7 @@
 # Welcome to Portfolio
 ## Project tour
 
-
+```bash
 |   .gitignore
 |   CODE_OF_CONDUCT.md
 |   commitlint.config.js
@@ -47,3 +47,4 @@
     |
     \---.vscode
             settings.json
+            ```
